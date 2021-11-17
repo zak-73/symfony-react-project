@@ -21,9 +21,14 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/jms/serializer" />
       <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/limenius/react-bundle" />
+      <path value="$PROJECT_DIR$/vendor/limenius/react-renderer" />
       <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nacmartin/phpexecjs" />
       <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
       <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/vendor/phar-io/version" />
@@ -31,6 +36,7 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpdoc-parser" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
@@ -138,12 +144,12 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="1619eafa-6436-4f0e-bb52-f9f60aadf9e8" name="PHP 7.4" home="C:\wamp64\bin\php\php7.4.9\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="1619eafa-6436-4f0e-bb52-f9f60aadf9e8" name="PHP 7.4 (project level)" home="C:\wamp64\bin\php\php7.4.9\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4">
+      <interpreter name="PHP 7.4 (project level)">
         <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.4.9\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.4.9\php.exe" path_separator=";" version="7.4.9">
           <additional_php_ini />
           <configuration_file>C:\wamp64\bin\php\php7.4.9\php.ini</configuration_file>
@@ -203,7 +209,7 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/phpunit.xml.dist" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" use_configuration_file="true" />
